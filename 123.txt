@@ -1,0 +1,468 @@
+====================
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+=====================================
+1.GitHub
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+2.GitLab
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+3.Bitbucket
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+4.Docker Hub
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+
+
+
+================================================
+
+ec2-user---A/R/C
+
+ubuntu--Ubunut
+
+admin---Debin
+
+========================
+
+
+
+AKIAR4EVPOFEZ4REHOV4
+
+8ryWV8eNgP5bopoel1ZKqWxmmANDjpJrFK5JiRns
+
+==========================================================
+docker tag local-image:tagname new-repo:tagname
+docker push new-repo:tagname
+
+docker push awsdevops2050/mobiletestingrepo:tagname
+
+===========================================
+
+docker tag hello-world:latest awsdevops2050/mobiletestingrepo:latest
+
+
+docker push awsdevops2050/mobiletestingrepo:latest
+
+
+
+====================
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+=====================================
+1.GitHub
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+2.GitLab
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+3.Bitbucket
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+4.Docker Hub
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+
+
+
+================================================
+
+ec2-user---A/R/C
+
+ubuntu--Ubunut
+
+admin---Debin
+
+========================
+
+
+
+AKIAR4EVPOFEZ4REHOV4
+
+8ryWV8eNgP5bopoel1ZKqWxmmANDjpJrFK5JiRns
+
+==========================================================
+docker tag local-image:tagname new-repo:tagname
+docker push new-repo:tagname
+
+docker push awsdevops2050/mobiletestingrepo:tagname
+
+===========================================
+
+docker tag hello-world:latest awsdevops2050/mobiletestingrepo:latest
+
+
+docker push awsdevops2050/mobiletestingrepo:latest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+=====================================
+1.GitHub
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+2.GitLab
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+3.Bitbucket
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+4.Docker Hub
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+
+
+
+================================================
+
+ec2-user---A/R/C
+
+ubuntu--Ubunut
+
+admin---Debin
+
+========================
+
+
+
+AKIAR4EVPOFEZ4REHOV4
+
+8ryWV8eNgP5bopoel1ZKqWxmmANDjpJrFK5JiRns
+
+==========================================================
+docker tag local-image:tagname new-repo:tagname
+docker push new-repo:tagname
+
+docker push awsdevops2050/mobiletestingrepo:tagname
+
+===========================================
+
+docker tag hello-world:latest awsdevops2050/mobiletestingrepo:latest
+
+
+docker push awsdevops2050/mobiletestingrepo:latest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+=====================================
+1.GitHub
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+2.GitLab
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+3.Bitbucket
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+4.Docker Hub
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+
+
+
+================================================
+
+ec2-user---A/R/C
+
+ubuntu--Ubunut
+
+admin---Debin
+
+========================
+
+
+
+AKIAR4EVPOFEZ4REHOV4
+
+8ryWV8eNgP5bopoel1ZKqWxmmANDjpJrFK5JiRns
+
+==========================================================
+docker tag local-image:tagname new-repo:tagname
+docker push new-repo:tagname
+
+docker push awsdevops2050/mobiletestingrepo:tagname
+
+===========================================
+
+docker tag hello-world:latest awsdevops2050/mobiletestingrepo:latest
+
+
+docker push awsdevops2050/mobiletestingrepo:latest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+=====================================
+1.GitHub
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+2.GitLab
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+3.Bitbucket
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+4.Docker Hub
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+
+
+
+================================================
+
+ec2-user---A/R/C
+
+ubuntu--Ubunut
+
+admin---Debin
+
+========================
+
+
+
+AKIAR4EVPOFEZ4REHOV4
+
+8ryWV8eNgP5bopoel1ZKqWxmmANDjpJrFK5JiRns
+
+==========================================================
+docker tag local-image:tagname new-repo:tagname
+docker push new-repo:tagname
+
+docker push awsdevops2050/mobiletestingrepo:tagname
+
+===========================================
+
+docker tag hello-world:latest awsdevops2050/mobiletestingrepo:latest
+
+
+docker push awsdevops2050/mobiletestingrepo:latest
+
+=================================================
+
+====================
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+=====================================
+1.GitHub
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+2.GitLab
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+3.Bitbucket
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+4.Docker Hub
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+
+
+
+================================================
+
+ec2-user---A/R/C
+
+ubuntu--Ubunut
+
+admin---Debin
+
+========================
+
+
+
+AKIAR4EVPOFEZ4REHOV4
+
+8ryWV8eNgP5bopoel1ZKqWxmmANDjpJrFK5JiRns
+
+==========================================================
+docker tag local-image:tagname new-repo:tagname
+docker push new-repo:tagname
+
+docker push awsdevops2050/mobiletestingrepo:tagname
+
+===========================================
+
+docker tag hello-world:latest awsdevops2050/mobiletestingrepo:latest
+
+
+docker push awsdevops2050/mobiletestingrepo:latest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==========
+
+====================
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+=====================================
+1.GitHub
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+2.GitLab
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+3.Bitbucket
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+4.Docker Hub
+G Id:awsdevops2050@gmail.com
+Pwd:IndInd7!!!
+
+
+
+
+================================================
+
+ec2-user---A/R/C
+
+ubuntu--Ubunut
+
+admin---Debin
+
+========================
+
+
+
+AKIAR4EVPOFEZ4REHOV4
+
+8ryWV8eNgP5bopoel1ZKqWxmmANDjpJrFK5JiRns
+
+==========================================================
+docker tag local-image:tagname new-repo:tagname
+docker push new-repo:tagname
+
+docker push awsdevops2050/mobiletestingrepo:tagname
+
+===========================================
+
+docker tag hello-world:latest awsdevops2050/mobiletestingrepo:latest
+
+
+docker push awsdevops2050/mobiletestingrepo:latest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
